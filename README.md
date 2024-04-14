@@ -15,3 +15,5 @@ druhov vozidiel na prenájom: Electric car, Scooter a Electric
 bike. Používateľ si môže prenajať vozidlo a následne zaplatiť.
 K dispozícii je taktiež výpis všetkých dostupných vozidiel
 alebo iba konkrétneho typu. Taktiež výpis jázd.
+
+Link na celú dokumentáciu k semestrálnemu projektu: https://github.com/LukasHajduch4/SemestralnyProjektCPlusPlus/blob/main/Semestr%C3%A1lnyProjektDokument%C3%A1ciaByLukasHajduch.pdf
